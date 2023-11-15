@@ -1,4 +1,4 @@
-# 🧘Yoga Pose Image Classification with Pretrain Models
+# 🧘Yoga Pose Image Classification with Pretrained Models
 
 [![python version](https://img.shields.io/badge/python-3.x-blue)](https://python.org)
 [![tensorflow version](https://img.shields.io/badge/tensorflow-2.x-orange)](https://www.tensorflow.org/)
