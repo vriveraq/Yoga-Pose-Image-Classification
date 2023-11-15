@@ -9,7 +9,7 @@ This project is a small introduction to Computer Vision! In this example, we wil
 ## 🛠️ Installation
 Clone the github repository to your local machine:
 ```
-git clone https://github.com/nikolaaswillaert/Airflow_ImmoEliza.git
+git clone https://github.com/vriveraq/Yoga-Pose-Image-Classification.git
 ```
 Create an environment and intall you requirements
 
