@@ -13,11 +13,10 @@ git clone https://github.com/vriveraq/Yoga-Pose-Image-Classification.git
 ```
 Create an environment and install your requirements!
 
-
 Clone the GitHub repository to your local machine:
 
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## 👣 Pipeline
